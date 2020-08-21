@@ -1,8 +1,6 @@
 # additional_banking_dataset
 
-Emory Applied DS & ML with Python Program 
-Capstone Project - Python
-This capstone project is designed to give you an opportunity to leverage exploratory skills, research abilities, and in-class learning and to apply that knowledge in analyzing a real-world data set in a wholistic manner. Best way to learn and master any technology or skill is by doing it. Data analytics in particular is all about asking the right questions, identifying appropriate resources, investigating the appropriate techniques, and applying them in an iterative manner. Working on this project therefore may involve concepts and techniques in addition to what were taught in the class keeping in line with the real-world scenarios which necessitate self-learning and exploratory research. 
+This project is designed to give you an opportunity to leverage exploratory skills, research abilities, and in-class learning and to apply that knowledge in analyzing a real-world data set in a wholistic manner. Best way to learn and master any technology or skill is by doing it. Data analytics in particular is all about asking the right questions, identifying appropriate resources, investigating the appropriate techniques, and applying them in an iterative manner. Working on this project therefore may involve concepts and techniques in addition to what were taught in the class keeping in line with the real-world scenarios which necessitate self-learning and exploratory research. 
 For this project, you will be working on a marketing data set related to a banking institution (obtained from UCI Machine learning repository). You will be performing various tasks in Python as described below:
 I.	Data Collection 
 1)	Load the ‘bank-additional-full.csv’ dataset. Identify the number of rows and columns. Get familiar with the bank dataset features (or attributes):
